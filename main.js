@@ -183,7 +183,7 @@ class privacyGlassesSettingTab extends obsidian.PluginSettingTab {
         containerEl.createEl('br');
         containerEl.createEl('a', { text: '请原作者喝杯咖啡（非汉化者）: https://www.buymeacoffee.com/jillalberts', href: "https://www.buymeacoffee.com/jillalberts" });
         containerEl.createEl('span', { text: ': tip jar' });
-        containerEl.createEl('p', { text: '要激活/停用 "Privacy Glasses"，请点击左侧功能区的眼镜图标，或在命令选项板中运行 "切换 Privacy Glasses "命令（Ctrl-P）。如果你愿意，该命令也可以与键盘快捷键绑定。' });
+        containerEl.createEl('p', { text: '要激活/停用 "Privacy Glasses"，请点击左侧功能区的眼镜图标，或在命令选项板中运行 "Toggle Privacy Glasses "命令（Ctrl-P）。如果你愿意，该命令也可以与键盘快捷键绑定。' });
         containerEl.createEl('p', { text: '实验性的设置并不总是像你可能喜欢的那样工作，它们被标上了"⚠️"。它们可以安全地使用，但可能会有恼人的行为。' });
         new obsidian.Setting(containerEl)
             .setName('Privacy Glasses 是否激活\n')
