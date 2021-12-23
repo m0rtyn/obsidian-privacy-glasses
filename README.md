@@ -13,5 +13,5 @@
 
 ## 如何使用
 
-复制 `main.js`, `styles.css`, `manifest.json` 到你的库中，如：`VaultFolder/.obsidian/plugins/you-plugin-id/`
+从 Releases 中下载 `main.js`, `styles.css`, `manifest.json` 到你的库中，如：`VaultFolder/.obsidian/plugins/you-plugin-id/`
 
