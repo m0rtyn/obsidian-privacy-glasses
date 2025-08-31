@@ -1,10 +1,10 @@
 {
-	"id": "privacy-glasses-cn",
-	"name": "Privacy Glasses-cn",
-	"version": "0.4.3",
-	"minAppVersion": "0.11.9",
-	"description": "提供一个按钮和命令来混淆屏幕上的文本，以便在公共场合更好地保护隐私。",
-	"author": "stargrey",
-	"authorUrl": "https://github.com/stargrey/privacy-glasses",
+	"id": "privacy-glasses",
+	"name": "Privacy Glasses",
+	"version": "0.8.0",
+	"minAppVersion": "1.1",
+	"description": "Provides a button and command to obfuscate onscreen text for better privacy in public settings.",
+	"author": "m0rtyn, stargrey, Jill Alberts",
+	"authorUrl": "https://github.com/m0rtyn",
 	"isDesktopOnly": false
 }
